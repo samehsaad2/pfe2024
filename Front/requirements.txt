@@ -1,0 +1,6 @@
+Flask
+dvc
+fastapi
+uvicorn
+pandas
+
